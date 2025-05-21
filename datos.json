@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Quinta Roo",
+    "Telefono": "$3,500.00",
+    "Direccion": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Quinta Roo",
+    "Telefono": "$3,500.00",
+    "Direccion": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Quinta Roo",
+    "Telefono": "$3,500.00",
+    "Direccion": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+  }
+]
