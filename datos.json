@@ -4,20 +4,20 @@
     "nombre": "Miguel",
     "Telefono": "656 989 5478",
     "Direccion": "Manzana05",
-    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+    "imagenUrl": "https://raw.githubusercontent.com/Miguel-Rios1094/DulceriaVero_imagenes_app_flutter/refs/heads/main/Vero(1).png"
   },
   {
     "id": 2,
     "nombre": "Francis",
     "Telefono": "656 653 3214",
     "Direccion": "Manzana07",
-    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+    "imagenUrl": "https://raw.githubusercontent.com/Miguel-Rios1094/DulceriaVero_imagenes_app_flutter/refs/heads/main/perfil.png"
   },
   {
     "id": 3,
     "nombre": "Cesar",
     "Telefono": "656 785 4169",
     "Direccion": "Manzana06",
-    "imagenUrl": "https://raw.githubusercontent.com/Cesar-Najera-1068/Central_Camionera_imagenes_appflutter/refs/heads/main/quintaroo.jpeg"
+    "imagenUrl": "https://raw.githubusercontent.com/Miguel-Rios1094/DulceriaVero_imagenes_app_flutter/refs/heads/main/ll.jpg"
   }
 ]
